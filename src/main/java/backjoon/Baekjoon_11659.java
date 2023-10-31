@@ -1,6 +1,8 @@
+package backjoon;
+
 import java.util.Scanner;
 
-public class Backjoon_11659 {
+public class Baekjoon_11659 {
     public static void main(String[] args) {
         // 구간합 구하기
         Scanner scanner = new Scanner(System.in);

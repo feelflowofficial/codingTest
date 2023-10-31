@@ -1,9 +1,11 @@
+package backjoon;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Backjoon_12891 {
+public class Baekjoon_12891 {
     // 슬라이딩 윈도우
     static int[] myArr = new int[4];
     static int[] checkArr = new int[4];

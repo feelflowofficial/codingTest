@@ -1,6 +1,8 @@
+package backjoon;
+
 import java.util.Scanner;
 
-public class Backjoon_2750 {
+public class Baekjoon_2750 {
     public static void main(String[] args) {
         // 버블정렬 수 정렬하기1
 

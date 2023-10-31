@@ -1,7 +1,9 @@
+package backjoon;
+
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Backjoon_1874 {
+public class Baekjoon_1874 {
     public static void main(String[] args) {
         // 스택으로 수열만들기
         Scanner scanner = new Scanner(System.in);

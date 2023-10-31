@@ -1,8 +1,10 @@
+package backjoon;
+
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Backjoon_2164 {
+public class Baekjoon_2164 {
     public static void main(String[] args) {
         // 스택 큐 카드게임
         Scanner scanner = new Scanner(System.in);

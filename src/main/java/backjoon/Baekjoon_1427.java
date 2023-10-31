@@ -1,6 +1,8 @@
+package backjoon;
+
 import java.util.Scanner;
 
-public class Backjoon_1427 {
+public class Baekjoon_1427 {
     public static void main(String[] args) {
         // 선택정렬 내림차순으로 자릿수 정리하기
         Scanner scanner = new Scanner(System.in);

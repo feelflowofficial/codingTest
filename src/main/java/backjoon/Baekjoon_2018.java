@@ -1,6 +1,8 @@
+package backjoon;
+
 import java.util.Scanner;
 
-public class Backjoon_2018 {
+public class Baekjoon_2018 {
     public static void main(String[] args) {
         // 투 포인터 연속된 자연수의 합 구하기
         Scanner scanner = new Scanner(System.in);

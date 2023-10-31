@@ -1,7 +1,9 @@
+package backjoon;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Backjoon_1940 {
+public class Baekjoon_1940 {
     public static void main(String[] args) {
         // 투 포인터 정렬에서 양끝에서 오게
         Scanner scanner = new Scanner(System.in);

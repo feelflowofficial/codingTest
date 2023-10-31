@@ -1,3 +1,5 @@
+package backjoon;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -5,7 +7,7 @@ import java.util.PriorityQueue;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class Backjoon_11286 {
+public class Baekjoon_11286 {
     public static void main(String[] args) throws IOException {
         // 스택 큐 절댓값 힙 구현하기 우선순위큐
 

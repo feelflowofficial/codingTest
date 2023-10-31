@@ -1,3 +1,5 @@
+package softeer;
+
 import java.util.Scanner;
 
 public class Softeer_Level1_3 {
