@@ -2,7 +2,7 @@ package softeer;
 
 import java.util.Scanner;
 
-public class Softeer_Level_2_5 {
+public class Softeer_Level2_5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
